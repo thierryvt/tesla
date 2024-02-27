@@ -7,7 +7,7 @@ license = "Apache-2.0"
 
 [tool.poetry.dependencies]
 python = "^3.10"
-teslajsonpy = { git = "https://github.com/thierryvt/teslajsonpy.git", branch = "custom-url-no-sig-changes" }
+teslajsonpy = "3.10.0"
 
 
 [tool.poetry.group.dev.dependencies]
